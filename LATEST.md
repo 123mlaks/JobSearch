@@ -1,70 +1,74 @@
-# New matches — 2026-10-06
+# New matches — 2026-10-07
 
-64 new postings (scanned 9698 listings).
+68 new postings (scanned 9738 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 10 | Astera Labs | Applied AI New Grad - Non Silicon | Applied AI / FDE | San Jose, CA | Oct 06 | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005) |
-| 9.5 | State Street | Application Security Engineer - Agentic Harness | Applied AI / FDE | Quincy, Massachusetts | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-statestreet-global-R-795118?s=gh-new-grad-jobs-2027) |
-| 9.5 | Northrop Grumman | Cybersecurity Systems Engineer (Level 1/2) | Security / D&R | United States-California-El Segundo | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250987?s=gh-new-grad-jobs-2027) |
-| 9.5 | Nominal | Software Engineer, Agents | Applied AI / FDE | New York, United States | Oct 05 | [Apply](https://zapply.jobs/l/d/gem-nominal-am9icG9zdDpL-JNJq5xAAt03bX9HVpDi?s=gh-new-grad-jobs-2027) |
-| 9.5 | Institute for Foundation Models | Machine Learning Engineer — Pre-training (LLM) | Applied AI / FDE | Sunnyvale, CA | Oct 05 | [Apply](https://zapply.jobs/l/d/lever-ifm-us-8ffd3dde-0f35-4246-9e20-e7c96023284d?s=gh-new-grad-jobs-2027) |
-| 9.5 | Saronic Technologies | Software Engineer - Forward Deployed | Applied AI / FDE | Austin, TX | Oct 05 | [Apply](https://zapply.jobs/l/d/ashby-saronic-f33184f4-52ef-4b75-b644-2a7d6d525118?s=gh-new-grad-jobs-2027) |
-| 9.5 | Saronic Technologies | Software Engineer - Forward Deployed | Applied AI / FDE | San Diego, CA | Oct 05 | [Apply](https://zapply.jobs/l/d/ashby-saronic-4bd52e96-1903-4d2a-8e04-0e4d8851059e?s=gh-new-grad-jobs-2027) |
-| 9 | CACI | AI Engineer | Applied AI / FDE | Any State | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-caci-external-333163?s=gh-new-grad-jobs-2027) |
-| 9 | Tenstorrent | Applied AI Engineer | Applied AI / FDE | Santa Clara, California, United... | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-tenstorrent-5257595007?s=gh-new-grad-jobs-2027) |
-| 9 | Teserac | AI Engineer | Applied AI / FDE | Santa Clara, CA | Oct 06 | [Apply](https://apply.workable.com/teserac-inc/j/01F1C3E218/apply) |
-| 8.5 | NIH-NCBI | Junior Data Scientist | ML / Data Science | Bethesda, MD | Oct 06 | [Apply](https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/8012994003) |
-| 8.5 | Home Depot | Associate Data Scientist - Supply Chain | ML / Data Science | STORE SUPPORT | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req195136?s=gh-new-grad-jobs-2027) |
-| 8.5 | Booz Allen Hamilton | Data Scientist, Junior | ML / Data Science | San Diego, CA | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251120?s=gh-new-grad-jobs-2027) |
-| 8.5 | iCapital Network | Artificial Intelligence / Machine Learning Engineer - Associate | ML / Data Science | New York, New York, United States | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-icapitalnetwork-8802717002?s=gh-new-grad-jobs-2027) |
-| 8.5 | Mayo Clinic | Limited Tenure Associate Data Scientist Analyst - Dr. Helgeson Lab | ML / Data Science | Jacksonville, FL | Oct 06 | [Apply](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392455) |
-| 8 | Northrop Grumman | Industrial Security Analyst | Security / D&R | United States-Maryland-Baltimore | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10239576?s=gh-new-grad-jobs-2027) |
-| 8 | Northrop Grumman | Cybersecurity Systems Engineer (Level 3/4) | Security / D&R | United States-California-El Segundo | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10250989?s=gh-new-grad-jobs-2027) |
-| 8 | Booz Allen Hamilton | Enterprise Cybersecurity BigID Engineer | Security / D&R | McLean, VA | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251129?s=gh-new-grad-jobs-2027) |
-| 8 | Amentum | Security Analyst | Security / D&R | VA-Chantilly | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172381?s=gh-new-grad-jobs-2027) |
-| 8 | GDIT | Cyber Security Analyst (ISSO) | Security / D&R | International | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229955?s=gh-new-grad-jobs-2027) |
-| 8 | Audax Group | Data Security Engineer | Security / D&R | Boston, MA | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-audaxgroup-4738458005?s=gh-new-grad-jobs-2027) |
-| 8 | Booz Allen Hamilton | Information Systems Security Engineer | Security / D&R | Reston, VA | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250235?s=gh-new-grad-jobs-2027) |
-| 8 | Accenture Federal Services | Information Systems Security Engineer (ISSE) | Security / D&R | Arlington, VA | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4719254006?s=gh-new-grad-jobs-2027) |
-| 8 | RunPod | Cloud Infrastructure Security Engineer (Systems/Kernel) | Security / D&R | Remote - USA | Oct 05 | [Apply](https://zapply.jobs/l/d/ashby-runpod-475e7a21-59af-4ef4-b2a3-6a0e60fc1356?s=gh-new-grad-jobs-2027) |
-| 8 | Replit | Security Engineer - Incident Response | Security / D&R | Foster City, CA | Oct 05 | [Apply](https://zapply.jobs/l/d/ashby-replit-de941de4-b0f2-4de8-a018-af667c67f33e?s=gh-new-grad-jobs-2027) |
-| 8 | Booz Allen Hamilton | Application Security Engineer | Security / D&R | Huntsville, AL | Oct 05 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251103?s=gh-new-grad-jobs-2027) |
-| 7.5 | Sierra Nevada Corporation | Software Engineer I (For 2026 Interns Only) | Software Engineering | Dayton, OH | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0030889?s=gh-new-grad-jobs-2027) |
-| 7.5 | Boeing | Embedded Software Engineer - Entry-Level | Software Engineering | Hazelwood, MO | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522089?s=gh-new-grad-jobs-2027) |
-| 7.5 | AeroVironment | Junior Software Engineer | Software Engineering | 420 National Business Parkway,... | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-avav-avav-8322?s=gh-new-grad-jobs-2027) |
-| 7.5 | Fiserv | Software Development Engineering - Advisor I | Software Engineering | Berkeley Heights, New Jersey | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-fiserv-ext-R-10403934?s=gh-new-grad-jobs-2027) |
-| 7.5 | Pure Storage | Software Engineer Grad 2027 | Software Engineering | Santa Clara, California | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-purestorage-8249851?s=gh-new-grad-jobs-2027) |
-| 7.5 | Southern Star Central Gas Pipeline | Software Engineer 1 | Software Engineering | Owensboro, KY | Oct 06 | [Apply](https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false) |
-| 7.5 | Mach Industries | Software Engineer New Grad - Software | Software Engineering | Huntington Beach, CA | Oct 06 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4401995009) |
-| 7.5 | Mach Industries | Software Engineer New Grad | Software Engineering | Huntington Beach, CA | Oct 06 | [Apply](https://job-boards.greenhouse.io/machindustries/jobs/4390274009) |
-| 7.5 | Whoop | Software Engineer 1 - Backend | Software Engineering | Boston, MA | Oct 06 | [Apply](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true) |
-| 7.5 | Whoop | Software Engineer 1 - Frontend - AI Platform | Software Engineering | Boston, MA | Oct 06 | [Apply](https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true) |
-| 7.5 | Roku | Software Engineer, Early Careers AI/UI | Software Engineering | San Jose, California | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-roku-8188704?s=gh-new-grad-jobs-2027) |
-| 7.5 | JP Morgan Chase | Software Engineer 1 | Software Engineering | Plano, TX | Oct 06 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232) |
-| 7.5 | Annapurna Labs (U.S.) Inc. | Software Engineer-AI/ML, Inference Team - AWS Neuron | ML / Data Science | Seattle, WA | Oct 06 | [Apply](https://zapply.jobs/l/d/amazon-74148ec2-1021-49e4-a387-a5f17d6c4733?s=gh-new-grad-jobs-2027) |
-| 7.5 | Nuro | Software Engineer New Grad - Routing | Software Engineering | Mountain View, CA | Oct 05 | [Apply](https://nuro.ai/careersitem?gh_jid=8248317) |
-| 7.5 | Capgemini | Associate Software Engineer | Software Engineering | Nashville, TN | Oct 05 | [Apply](https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors) |
-| 7.5 | Barrios | Software Developer 1 - Applications and Data | Software Engineering | Houston, TX | Oct 05 | [Apply](https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false) |
-| 7.5 | LSEG | Real-Time Software Engineer – Early Career | Software Engineering | St. Louis, MO | Oct 05 | [Apply](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057) |
-| 7.5 | Mastercard | Software Engineer 1 | Software Engineering | O'Fallon, MO | Oct 05 | [Apply](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661) |
-| 7.5 | RTX | Software Engineer 1 | Software Engineering | Tucson, AZ | Oct 05 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01879432) |
-| 7.5 | General Dynamics Information Technology | Software Developer Associate | Software Engineering | Chantilly, VA | Oct 05 | [Apply](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chantilly/Software-Developer-Associate---TS-SCI-with-Polygraph_RQ229852-1) |
-| 7.5 | Hewlett Packard Enterprise | Graduate Systems/Software Engineer 1 | Software Engineering | Bloomington, MN | Oct 05 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Graduate-Systems-Software-Engineer-I_1213439) |
-| 7.5 | RTX | Software Engineer 1 | Software Engineering | East Hartford, CT | Oct 05 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537) |
-| 7.5 | RTX | Software Engineer 1 - Gen4 Airborne Radar | Software Engineering | El Segundo, CA | Sep 25 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039) |
-| 7.5 | RTX | Software Engineer 1 | Software Engineering | Marlborough, MA | Sep 24 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495) |
-| 7.5 | RTX | Software Engineer 1 | Software Engineering | Tewksbury, MA | Sep 23 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302) |
-| 7 | Coherent Solutions | ML Engineer | ML / Data Science | Georgia, USA +1 | Oct 06 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4975295101) |
-| 7 | AeroVironment | Data Scientist | ML / Data Science | 308 Sentinel Drive, Annapolis... | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-avav-avav-7012?s=gh-new-grad-jobs-2027) |
-| 7 | Guidehouse | Data Scientist, Consultant (Utilities) | ML / Data Science | CO Boulder | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-42467?s=gh-new-grad-jobs-2027) |
-| 7 | Booz Allen Hamilton | AI and ML Engineer and Data Scientist | ML / Data Science | Fayetteville, NC | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250643?s=gh-new-grad-jobs-2027) |
-| 7 | Institute for Foundation Models | Machine Learning Engineer — Reinforcement Learning | ML / Data Science | Sunnyvale, CA | Oct 05 | [Apply](https://zapply.jobs/l/d/lever-ifm-us-6ef8a25f-786b-4362-a947-b9c1d2878e2b?s=gh-new-grad-jobs-2027) |
-| 7 | Institute for Foundation Models | Machine Learning Engineer — GPU Kernel | ML / Data Science | Sunnyvale, CA | Oct 05 | [Apply](https://zapply.jobs/l/d/lever-ifm-us-29135b52-e2e0-47de-a373-697cd2f9c53c?s=gh-new-grad-jobs-2027) |
-| 7 | Apple | Machine Learning FEA Engineer | ML / Data Science | San Francisco Bay Area | Oct 05 | [Apply](https://zapply.jobs/l/d/apple-200636369?s=gh-new-grad-jobs-2027) |
-| 7 | Physical Intelligence | ML Engineer - API Platform | ML / Data Science | San Francisco | Oct 05 | [Apply](https://zapply.jobs/l/d/ashby-physicalintelligence-6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe?s=gh-new-grad-jobs-2027) |
-| 7 | Apple | SoC Machine Learning Design Engineer | ML / Data Science | Austin | Oct 05 | [Apply](https://zapply.jobs/l/d/apple-200687294?s=gh-new-grad-jobs-2027) |
-| 7 | Snap | Data Scientist, Level 4 | ML / Data Science | Los Angeles California | Oct 05 | [Apply](https://zapply.jobs/l/d/workday-snapchat-snap-Q426DSA4?s=gh-new-grad-jobs-2027) |
-| 7 | GDIT | Data Scientist | ML / Data Science | USA FL Hurlburt Field | Oct 05 | [Apply](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ229928?s=gh-new-grad-jobs-2027) |
-| 7 | Amazon Kuiper Manufacturing Enterprises LLC | Data Scientist , Leo Customer Terminal | ML / Data Science | Redmond, WA | Oct 05 | [Apply](https://zapply.jobs/l/d/amazon-eaeb1c42-67d4-490d-8897-d12fa41b1497?s=gh-new-grad-jobs-2027) |
-| 7 | Intel | Finance Data Scientist | ML / Data Science | Santa Clara, CA, Hillsboro, OR, Phoenix, | Sep 30 | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Finance-Data-Scientist_JR0287625) |
+| 10 | Boeing | Procurement Agent (Associate) | Applied AI / FDE | USA - Hazelwood, MO | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026508972?s=gh-new-grad-jobs-2027) |
+| 10 | RoadRunner | Forward Deployed Engineer New Grad | Applied AI / FDE | SF | Oct 06 | [Apply](https://jobs.ashbyhq.com/Roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480/application?embed=true) |
+| 10 | Provectus | Associate Forward Deployed Engineer | Applied AI / FDE | NYC | Oct 06 | [Apply](https://jobs.lever.co/provectus/8f3a9444-2977-4310-b2d5-12cc327a9916/apply) |
+| 10 | The Federal Reserve System | AI Solutions Engineer Associate | Applied AI / FDE | Boston, MA, SF, Cleveland, OH, Dallas, T | Oct 06 | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/AI-Solutions-Engineer---Associate_R-0000033675-1) |
+| 9.5 | Verizon | Junior Security Engineer | Security / D&R | Basking Ridge, New Jersey | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101837?s=gh-new-grad-jobs-2027) |
+| 9.5 | GDIT | Network Security Engineer Junior | Security / D&R | USA VA Ashburn | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ230028?s=gh-new-grad-jobs-2027) |
+| 9.5 | MITRE | Associate Embedded Security Engineer | Security / D&R | Bedford, Massachusetts | Oct 05 | [Apply](https://zapply.jobs/l/d/phenom-mitre-R115645?s=gh-new-grad-jobs-2027) |
+| 9 | Stripe | AI Engineer | Applied AI / FDE | Chicago | Oct 07 | [Apply](https://zapply.jobs/l/d/greenhouse-stripe-8144196?s=gh-new-grad-jobs-2027) |
+| 9 | Anthropic | Applied AI Engineer, Public Sector | Applied AI / FDE | Washington, DC | Oct 07 | [Apply](https://zapply.jobs/l/d/greenhouse-anthropic-5445410008?s=gh-new-grad-jobs-2027) |
+| 9 | Amazon.com Services LLC | Applied Scientist-LLM, Buy For Me | Applied AI / FDE | Seattle, WA | Oct 07 | [Apply](https://zapply.jobs/l/d/amazon-4f235b01-71ac-40ba-b5f9-30dfe6757a32?s=gh-new-grad-jobs-2027) |
+| 8.5 | Deloitte | Data Scientist - AI and Data Science Engineer 1 | ML / Data Science | Jersey City, NJ | Oct 06 | [Apply](https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-AI-and-Data-Science-Engineer-I/369586) |
+| 8.5 | Republic Services | Data Scientist I | ML / Data Science | Phoenix, AZ | Oct 06 | [Apply](https://republic.wd5.myworkdayjobs.com/en-US/republic/job/Phoenix-AZ-USA/Data-Scientist-I_R-181844) |
+| 8.5 | The Home Depot | Associate Data Scientist - Supply Chain | ML / Data Science | Atlanta, GA | Oct 02 | [Apply](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist_Req195136) |
+| 8 | Aerospace Corporation | Enterprise Operations Engineer | Trading Ops | Springfield, VA | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-aero-external-R016817?s=gh-new-grad-jobs-2027) |
+| 8 | Boeing | Product Security Engineer (Product Security Engineer) | Security / D&R | USA - El Segundo, CA | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026519263?s=gh-new-grad-jobs-2027) |
+| 8 | Verizon | Network Operations Engineer | Trading Ops | Cary, North Carolina | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100323?s=gh-new-grad-jobs-2027) |
+| 8 | Guidehouse | Cybersecurity Risk - Managing Consultant | Security / D&R | VA McLean | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-42609?s=gh-new-grad-jobs-2027) |
+| 8 | Northrop Grumman | System Engineer Level 2 - Mission Operations Engineer | Trading Ops | United... | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254977?s=gh-new-grad-jobs-2027) |
+| 8 | Booz Allen Hamilton | Cybersecurity Compliance Analyst | Security / D&R | Arlington, VA | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251208?s=gh-new-grad-jobs-2027) |
+| 8 | Booz Allen Hamilton | AWS Cloud Operations Engineer | Trading Ops | McLean, VA | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251218?s=gh-new-grad-jobs-2027) |
+| 8 | NXP | RS/HS Security Engineer | Security / D&R | San Jose | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-nxp-careers-R-10066853?s=gh-new-grad-jobs-2027) |
+| 8 | F5 | Site Reliability Engineer | Trading Ops | Seattle | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-ffive-f5jobs-RP1038966?s=gh-new-grad-jobs-2027) |
+| 8 | Elevance Health | Information Security Advisor - Detection Engineer | Security / D&R | 4 Locations | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-elevancehealth-ant-JR207713?s=gh-new-grad-jobs-2027) |
+| 8 | Salesforce | Product Security Engineer | Security / D&R | California - San Francisco | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR362613?s=gh-new-grad-jobs-2027) |
+| 8 | Yahoo | Paranoids Endpoint Security Engineer | Security / D&R | United States of America | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-ouryahoo-careers-JR0027450?s=gh-new-grad-jobs-2027) |
+| 8 | Leidos | Systems Engineer – Microsoft 365 Security & Compliance / Endpoint Security Engineer (GCC) | Security / D&R | 6314 Remote/Teleworker US | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-leidos-external-R-00190545?s=gh-new-grad-jobs-2027) |
+| 8 | Conagra Brands | Application Security Engineer | Security / D&R | Omaha, Nebraska | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-conagrabrands-careers-us-Req-039689?s=gh-new-grad-jobs-2027) |
+| 8 | RTX | Global Security Analyst (Onsite) | Security / D&R | IA-CEDAR RAPIDS | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878656?s=gh-new-grad-jobs-2027) |
+| 8 | Omniscius Consulting | Information System Security Engineer (ISSE) | Security / D&R | Beavercreek, OH | Oct 05 | [Apply](https://zapply.jobs/l/d/jazzhr-omnisciusconsulting-sltLDMY5vs?s=gh-new-grad-jobs-2027) |
+| 7.5 | Mastercard | Software Engineer I | Software Engineering | O'Fallon, Missouri | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-mastercard-corporatecareers-R-292618?s=gh-new-grad-jobs-2027) |
+| 7.5 | Northrop Grumman | Software Engineer (Level 1/2) | Software Engineering | United States-California-El Segundo | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10251286?s=gh-new-grad-jobs-2027) |
+| 7.5 | RTX | Software Engineer I (Onsite) | Software Engineering | MA-MARLBOROUGH-MA4 | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01874953?s=gh-new-grad-jobs-2027) |
+| 7.5 | Leidos | Junior Software Engineer | Software Engineering | Huntsville, AL | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-leidos-external-R-00194081?s=gh-new-grad-jobs-2027) |
+| 7.5 | Garmin | Software Engineer 1 - Web Applications | Software Engineering | Olathe, KS | Oct 07 | [Apply](https://careers.garmin.com/jobs/20219?icims=1) |
+| 7.5 | EquipmentShare | Software Engineer 1 | Software Engineering | Columbia, MO | Oct 07 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8071715) |
+| 7.5 | CVS Health | Associate Software Development Engineer - Conversion | Software Engineering | Alpharetta, GA | Oct 07 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768) |
+| 7.5 | Comcast | Entry Level Software Engineer- Englewood, CO- ONSITE 4 Days per Week- FreeWheel | Software Engineering | CO - Englewood | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445138?s=gh-new-grad-jobs-2027) |
+| 7.5 | True Anomaly | Software Engineer 1 to 3 - Digital Engineering | Software Engineering | Long Beach, CA, Denver, CO | Oct 06 | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007) |
+| 7.5 | Perpay | Software Engineer, New Grad - Super Day | Software Engineering | Philadelphia, Pennsylvania,... | Oct 06 | [Apply](https://zapply.jobs/l/d/greenhouse-perpay-5252881007?s=gh-new-grad-jobs-2027) |
+| 7.5 | Pure Storage | Software Engineer New Grad | Software Engineering | Santa Clara, CA | Oct 06 | [Apply](https://job-boards.greenhouse.io/purestorage/jobs/8249851) |
+| 7.5 | Shield AI | Software Development Engineer New Grad | Software Engineering | San Diego, CA | Oct 06 | [Apply](https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583/apply) |
+| 7.5 | Affirm | Software Engineer 1 New Grad | Software Engineering | NYC | Oct 06 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| 7.5 | Affirm | Software Engineer 1 New Grad | Software Engineering | SF, NYC | Oct 06 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| 7.5 | General Dynamics Mission Systems | Embedded Software Engineer – Entry Level | Software Engineering | Bloomington, MN | Oct 06 | [Apply](https://careers-gdms.icims.com/jobs/75056/job?mobile=true&needsRedirect=false) |
+| 7.5 | Shield AI | Software Development Engineer - New Graduate | Software Engineering | San Diego, California | Oct 06 | [Apply](https://zapply.jobs/l/d/lever-shieldai-79c3b65f-ce0c-4868-bedf-4ddcc4cfe583?s=gh-new-grad-jobs-2027) |
+| 7.5 | Amentum | Entry Level Software Engineer | Software Engineering | VA-Dahlgren | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0171494?s=gh-new-grad-jobs-2027) |
+| 7.5 | AeroVironment | Associate Software Engineer | Software Engineering | Moorpark, CA | Oct 06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016) |
+| 7.5 | AeroVironment | Software Engineer 1 (Embedded) | Software Engineering | Moorpark, CA | Oct 06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineer--EMB--I_9054) |
+| 7.5 | Sierra Nevada Corporation | Software Engineer 1 | Software Engineering | Dayton, OH | Oct 06 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889) |
+| 7.5 | Hewlett Packard Enterprise | Systems/Software Engineer 1 | Software Engineering | Houston, TX | Oct 06 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648) |
+| 7 | Zest AI | Data Scientist | ML / Data Science | Remote - Burbank, CA | Oct 07 | [Apply](https://job-boards.greenhouse.io/zestai/jobs/6217526004) |
+| 7 | Cardinal Health | AI/ML Engineer | ML / Data Science | Nationwide-FIELD | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188828?s=gh-new-grad-jobs-2027) |
+| 7 | CACI | Data Scientist | ML / Data Science | Fort Belvoir VA US | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-caci-external-333210?s=gh-new-grad-jobs-2027) |
+| 7 | CACI | AI/ML Engineer (Computer Vision) | ML / Data Science | Ashburn, VA, US | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-caci-external-333194?s=gh-new-grad-jobs-2027) |
+| 7 | Comcast | Machine Learning Engineer-Xumo | ML / Data Science | CA - Irvine | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445122?s=gh-new-grad-jobs-2027) |
+| 7 | Booz Allen Hamilton | Data Scientist | ML / Data Science | Atlanta, GA | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0247378?s=gh-new-grad-jobs-2027) |
+| 7 | Amentum | Machine Learning Automation Research Engineer | ML / Data Science | CA-Lancaster | Oct 07 | [Apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0172407?s=gh-new-grad-jobs-2027) |
+| 7 | Sift | Machine Learning Engineer | ML / Data Science | San Francisco, California | Oct 07 | [Apply](https://zapply.jobs/l/d/ashby-sift-45b22605-1abb-483e-8ef7-5ceaf04f5868?s=gh-new-grad-jobs-2027) |
+| 7 | ClickHouse | Machine Learning Engineer (AI/ML) | ML / Data Science | New York | Oct 07 | [Apply](https://zapply.jobs/l/d/ashby-clickhouse-b3e6d985-b540-456c-8eee-edfd79580572?s=gh-new-grad-jobs-2027) |
+| 7 | Baseten | Product Data Scientist | ML / Data Science | San Francisco | Oct 07 | [Apply](https://zapply.jobs/l/d/ashby-baseten-84c24e55-1db0-49b6-99d8-9bce9e16892f?s=gh-new-grad-jobs-2027) |
+| 7 | NVIDIA | Machine Learning Engineer, AI Safety | ML / Data Science | CA Santa Clara | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021784?s=gh-new-grad-jobs-2027) |
+| 7 | Radiance Technologies | AI/ML Engineer | ML / Data Science | Wright-Patt AFB, OH - NASIC | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-radiancetech-radiance-external-HR102468?s=gh-new-grad-jobs-2027) |
+| 7 | TransUnion | Data Scientist | ML / Data Science | Chicago, Illinois | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-transunion-transunion-19042717?s=gh-new-grad-jobs-2027) |
+| 7 | iRhythm | Machine Learning Scientist | ML / Data Science | Remote - US | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-irhythmtech-irhythm-JR1805?s=gh-new-grad-jobs-2027) |
+| 7 | Caterpillar | Data Scientist | ML / Data Science | Morton, Illinois | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000398239?s=gh-new-grad-jobs-2027) |
+| 7 | Snap | Machine Learning Engineer, Revenue+, Level 5 | ML / Data Science | New York, New York | Oct 06 | [Apply](https://zapply.jobs/l/d/workday-snapchat-snap-R0047092?s=gh-new-grad-jobs-2027) |
+| 7 | GDIT | Data Scientist | ML / Data Science | USA | Oct 06 | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-FL-Hurlburt-Field---229-Cody-Ave-FLC017/Data-Scientist_RQ229928-2) |
+| 7 | Vistra | Data Scientist | ML / Data Science | Irving, TX | Oct 06 | [Apply](https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1) |
