@@ -1,40 +1,40 @@
-# New matches — 2026-10-14
+# New matches — 2026-10-15
 
-34 new postings (scanned 9885 listings).
+34 new postings (scanned 9941 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 10 | Thales | AI Engineer - Graduate | Applied AI / FDE | Orlando | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-thales-careers-R0341851?s=gh-new-grad-jobs-2027) |
-| 10 | NAVEX | Associate AI Engineer | Applied AI / FDE | Houston, TX | Oct 13 | [Apply](https://jobs.dayforcehcm.com/en-US/navex/jobopenings/jobs/7051) |
-| 10 | Thales | Graduate AI Engineer | Applied AI / FDE | Orlando, FL | Oct 13 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
-| 9.5 | Leidos | Junior Security Engineer | Security / D&R | Bethesda, MD | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-leidos-external-R-00194399?s=gh-new-grad-jobs-2027) |
-| 9 | Allstate | Direct Sales Agent Specialist (1518) | Applied AI / FDE | Lexington 1518 Ngr | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R35628?s=gh-new-grad-jobs-2027) |
-| 9 | Brillio | AI Engineer | Applied AI / FDE | Dallas, TX | Oct 13 | [Apply](https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2) |
-| 9 | Kyndryl | Forward Deployed Engineer | Applied AI / FDE | Frisco, TX | Oct 13 | [Apply](https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529) |
-| 8.5 | Rocket Lab USA | Data Scientist 1 | ML / Data Science | Tucson, AZ | Oct 13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8031475003) |
-| 8.5 | Rocket Lab | Data Scientist I | ML / Data Science | Tucson, AZ | Oct 13 | [Apply](https://zapply.jobs/l/d/greenhouse-rocketlab-8031475003?s=gh-new-grad-jobs-2027) |
-| 8.5 | General Motors | Entry-Level - AI/Machine Learning Researcher | ML / Data Science | Mountain View, CA | Oct 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753) |
-| 8.5 | General Motors | Entry-Level - AI and Machine Learning for Automation Researcher | ML / Data Science | Warren, MI | Oct 13 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level---AI-and-Machine-Learning-for-Automation-Researcher_JR-202621769) |
-| 8 | RTX | Battlespace Cybersecurity Researcher | Security / D&R | IA-CEDAR RAPIDS | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01882569?s=gh-new-grad-jobs-2027) |
-| 7.5 | L3Harris Technologies | Associate Software Engineering | Software Engineering | Chantilly, VA | Oct 14 | [Apply](https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439515500/?ats=successfactors) |
-| 7.5 | Space Tango | Software Engineer - Level 1, 2, or 3 | Software Engineering | Lexington, KY | Oct 14 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4584333) |
-| 7.5 | Twitch Interactive, Inc. | Software Engineer I | Software Engineering | San Francisco, CA | Oct 14 | [Apply](https://zapply.jobs/l/d/amazon-51461fb5-932b-4a22-805f-23b73773a433?s=gh-new-grad-jobs-2027) |
-| 7.5 | AeroVironment | Junior Software Engineer | Software Engineering | Jessup, MD | Oct 14 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1) |
-| 7.5 | Signet Jewelers | Software Engineer 1 | Software Engineering | Akron, OH | Oct 14 | [Apply](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1) |
-| 7.5 | TMEIC Corporation Americas | Associate Software Developer - AI | Software Engineering | Houston, TX | Oct 13 | [Apply](https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/apply) |
-| 7.5 | Justworks | Associate Software Engineer - Frontend | Software Engineering | NYC | Oct 13 | [Apply](https://boards.greenhouse.io/justworks/jobs/8236815) |
-| 7.5 | Monti Inc | Associate Software Engineer - Intelligence Systems | Software Engineering | Cincinnati, OH | Oct 13 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611) |
-| 7.5 | Nightwing | Junior Software Engineer (SWE0) | Software Engineering | Annapolis Junction, MD | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-nwis-nw-01677525?s=gh-new-grad-jobs-2027) |
-| 7.5 | NVIDIA | SoC Software Engineer - New College Grad 2027 | Software Engineering | US, CA, Santa Clara | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026744?s=gh-new-grad-jobs-2027) |
-| 7.5 | NVIDIA | SoC Software Engineer – New College Graduate 2026 | Software Engineering | US, CA, Santa Clara | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027552?s=gh-new-grad-jobs-2027) |
-| 7.5 | Northrop Grumman | Associate Cloud Software Engineer 1 | Software Engineering | Redondo Beach, CA | Oct 13 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928) |
-| 7.5 | AVEVA | Software Developer Graduate - AI Proficient | Software Engineering | Lake Forest, CA, Philadelphia, PA, San L | Oct 13 | [Apply](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947) |
-| 7.5 | Boeing | Entry-Level Software Engineer Developer | Software Engineering | Richardson, TX | Oct 13 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1) |
-| 7.5 | NVIDIA | SoC Software Engineer New Grad | Software Engineering | Santa Clara, CA | Oct 13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) |
-| 7.5 | TaxRise | Junior Software Developer | Software Engineering | Irvine, CA | Oct 06 | [Apply](https://job-boards.greenhouse.io/taxrise/jobs/4434618009) |
-| 7 | Boston Scientific | Data Scientist - Data Science & Business Intelligence | ML / Data Science | Arden Hills, MN | Oct 13 | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602813769140) |
-| 7 | SimVentions | AI/Machine Learning Engineer - RAG Pipeline Development | ML / Data Science | Dahlgren, VA | Oct 13 | [Apply](https://simventions.jibeapply.com/jobs/1650?icims=1) |
-| 7 | Johns Hopkins Applied Physics Laboratory | Data Scientist - Computer Scientist - Engineer, Decision Systems | ML / Data Science | Laurel, MD | Oct 13 | [Apply](https://careers.jhuapl.edu/jobs/60569?icims=1) |
-| 7 | Intuitive Surgical | Data Scientist | ML / Data Science | Sunnyvale, CA | Oct 13 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000155345139) |
-| 7 | Google | Business and Marketing Data Scientist | ML / Data Science | Boulder, CO | Oct 13 | [Apply](https://www.google.com/about/careers/applications/jobs/results/133000976167510726) |
-| 7 | Coherent Solutions | ML Engineer | ML / Data Science | Georgia, USA +2 | Oct 06 | [Apply](https://job-boards.eu.greenhouse.io/coherentsolutionsinc/jobs/4997431101) |
+| 10 | Vagaro | Jr. AI Engineer | Applied AI / FDE | Pleasanton, CA | Oct 15 | [Apply](https://vagaro.breezy.hr/p/2f1a61cf0f5f-jr-ai-engineer) |
+| 10 | Thales | AI Engineer - Graduate | Applied AI / FDE | Orlando, FL | Oct 14 | [Apply](https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Orlando/AI-Engineer---Graduate_R0341851-1) |
+| 9.5 | Sierra Nevada Corporation | Systems Security Engineer I | Security / D&R | Lone Tree, CO | Oct 15 | [Apply](https://zapply.jobs/l/d/workday-snc-snc-external-career-site-R0031080?s=gh-new-grad-jobs-2027) |
+| 9.5 | Cisco | Site Reliability Engineer I (Full Time) — United States | Trading Ops | RTP North Carolina US | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2028788?s=gh-new-grad-jobs-2027) |
+| 9 | Nimble | Outbound AI Engineer | Applied AI / FDE | New York City, NY | Oct 15 | [Apply](https://www.nimbleway.com/open-position?outbound-ai-engineer&uid=54.270) |
+| 9 | DIRECTV | Agentic AI Orchestration Analyst | Applied AI / FDE | Remote - El Segundo, CA | Oct 14 | [Apply](https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/Agentic-AI-Orchestration-Analyst_R260319) |
+| 9 | Eide Bailly | AI Engineer | Applied AI / FDE | Fargo, ND +4 | Oct 14 | [Apply](https://eb-eidebailly.icims.com/jobs/9917/ai-engineer/job) |
+| 8.5 | Amazon.com Services LLC | Data Scientist I, PXT Central Science | ML / Data Science | Arlington, VA | Oct 15 | [Apply](https://zapply.jobs/l/d/amazon-4bf837ae-65f2-4bb0-9839-1fe6fbca3399?s=gh-new-grad-jobs-2027) |
+| 8.5 | Nike | Machine Learning Engineer I | ML / Data Science | Beaverton, Oregon | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-nike-nke-R-92370?s=gh-new-grad-jobs-2027) |
+| 8 | Anthropic | Cybersecurity Sales Specialist | Security / D&R | San Francisco, CA Seattle, WA... | Oct 10 | [Apply](https://zapply.jobs/l/d/greenhouse-anthropic-5449091008?s=gh-new-grad-jobs-2027) |
+| 7.5 | Comcast | Junior Software Engineer- 4 Days Onsite- Englewood, CO- FreeWheel | Software Engineering | CO - Englewood | Oct 15 | [Apply](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R445145?s=gh-new-grad-jobs-2027) |
+| 7.5 | Arcfield | Software Engineer 1 | Software Engineering | Rome, NY | Oct 15 | [Apply](https://careers.arcfield.com/jobs/8780?icims=1) |
+| 7.5 | RTX | Software Engineer I - Test | Software Engineering | AZ-TUCSON | Oct 15 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01873961?s=gh-new-grad-jobs-2027) |
+| 7.5 | SirenOpt | Software Engineer - Early Career - C++ & Systems | Software Engineering | San Leandro, CA | Oct 15 | [Apply](https://job-boards.greenhouse.io/sirenopt/jobs/4452002009) |
+| 7.5 | TikTok | Software Engineer Graduate - Data Ecosystem - 2027 Start | Software Engineering | San Jose, CA | Oct 14 | [Apply](https://lifeattiktok.com/search/7685769994391832837) |
+| 7.5 | Cvent | Software Engineer 1 | Software Engineering | Tysons, VA | Oct 14 | [Apply](https://careers.cvent.com/jobs/8265?icims=1) |
+| 7.5 | Analog Devices | Associate Software Engineer | Software Engineering | Wilmington, MA | Oct 14 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556) |
+| 7.5 | CLEAR | Software Development Engineer 1 | Software Engineering | Austin, TX | Oct 14 | [Apply](https://job-boards.greenhouse.io/clear/jobs/8241829) |
+| 7.5 | Freedom Technology Solutions Group | Junior Software Developer 795 | Software Engineering | Annapolis Junction, MD | Oct 14 | [Apply](https://zapply.jobs/l/d/greenhouse-freedomconsulting-5265949007?s=gh-new-grad-jobs-2027) |
+| 7.5 | CLEAR | Software Development Engineer I | Software Engineering | Austin, Texas | Oct 14 | [Apply](https://zapply.jobs/l/d/greenhouse-clear-8241829?s=gh-new-grad-jobs-2027) |
+| 7.5 | Boeing | Entry-Level Flight Simulation Software Engineer | Software Engineering | USA - Berkeley, MO | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523155?s=gh-new-grad-jobs-2027) |
+| 7.5 | Booz Allen Hamilton | C++ Software Engineer, Junior | Software Engineering | Beavercreek, OH | Oct 14 | [Apply](https://zapply.jobs/l/d/workday-bah-bah-jobs-R0251725?s=gh-new-grad-jobs-2027) |
+| 7.5 | DXC Technology | Analyst 1 Software Engineer | Software Engineering | Connecticut | Oct 14 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935) |
+| 7.5 | Boeing | Entry-Level Flight Simulation Software Engineer | Software Engineering | Berkeley, MO | Oct 14 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1) |
+| 7.5 | Boeing | Entry Level Software Engineer-Developer - Development | Software Engineering | Tinker Air Force Base, Oklahoma City, OK | Oct 14 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1) |
+| 7.5 | Boeing | Entry Level Software Engineer-Developer - Development | Software Engineering | Oklahoma City, OK | Oct 14 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1) |
+| 7.5 | RTX | Software Engineer 1 - Next Gen Systems | Software Engineering | Cedar Rapids, IA | Oct 14 | [Apply](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673) |
+| 7.5 | Leidos | Junior Software Developer | Software Engineering | Huntsville, AL | Oct 13 | [Apply](https://zapply.jobs/l/d/workday-leidos-external-R-00194110?s=gh-new-grad-jobs-2027) |
+| 7 | Intuitive | Data Scientist | ML / Data Science | Sunnyvale, CA | Oct 15 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000155345139-data-scientist-?oga=true) |
+| 7 | Go Fish Digital | Media and Marketing Data Scientist | ML / Data Science | Remote in USA | Oct 14 | [Apply](https://ats.rippling.com/gofishdigital/jobs/38101c5d-0279-4f4b-83b0-dd176bff7fc2) |
+| 7 | State Street | Artificial Intelligence & Machine Learning - Officer | ML / Data Science | Quincy, MA +3 | Oct 14 | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/Quincy-Massachusetts/Artificial-Intelligence---Machine-Learning--AVP_R-797812) |
+| 7 | State Street | Artificial Intelligence & Machine Learning - AVP | ML / Data Science | Quincy, MA +3 | Oct 14 | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/equest/job/Quincy-Massachusetts/Artificial-Intelligence---Machine-Learning--AVP_R-797811) |
+| 7 | Amgen | Commercial Data and Analytics Data Scientist - Obesity | ML / Data Science | Thousand Oaks, CA | Oct 14 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217) |
+| 7 | Lawrence Livermore National Laboratory | AI/ML Computational Biologist - Postdoctoral Researcher | ML / Data Science | Livermore, CA | Oct 10 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016006056-ai-ml-computational-biologist-postdoctoral-researcher?oga=true) |
