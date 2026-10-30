@@ -1,34 +1,39 @@
-# New matches — 2026-10-29
+# New matches — 2026-10-30
 
-28 new postings (scanned 9994 listings).
+33 new postings (scanned 10097 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 10 | Fuel Cycle | Associate AI Engineer - Onsite in Los Angeles | Applied AI / FDE | Los Angeles, CA | Oct 29 | [Apply](https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d) |
-| 10 | Rocket Companies | Real Estate Associate Agent (1099) - Kailua-Kona | Applied AI / FDE | Big Island, HI | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-082469?s=gh-new-grad-jobs-2027) |
-| 10 | Rocket Companies | Real Estate Associate Agent (1099) - Lahaina | Applied AI / FDE | Maui, HI | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-082468?s=gh-new-grad-jobs-2027) |
-| 10 | Rocket Companies | Real Estate Associate Agent (1099) - Oahu | Applied AI / FDE | Remote - Hawaii | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-082759?s=gh-new-grad-jobs-2027) |
-| 10 | RealPage | Agentic AI Architect I | Applied AI / FDE | Richardson, TX | Oct 28 | [Apply](https://careers-realpagepms.icims.com/jobs/14654/agentic-ai-architect-i/job) |
-| 9.5 | RTX | Software Security Engineer I | Security / D&R | CA-EL SEGUNDO-E01 | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885443?s=gh-new-grad-jobs-2027) |
-| 9.5 | RTX | Software Security Engineer 1 | Security / D&R | El Segundo, CA | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443) |
-| 9.5 | Sopra Steria I2S | AI Engineer Cybersecurity - m/w/d | Applied AI / FDE | Bundesweit, DE | Oct 28 | [Apply](https://jobs.smartrecruiters.com/SopraSteria1/744000158047447-ai-engineer-cybersecurity-m-w-d-?oga=true) |
-| 9 | Southwest Airlines | Customer Service Agent - MCO (Part-Time) | Applied AI / FDE | Orlando, FL | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-swa-external-R-2026-74090?s=gh-new-grad-jobs-2027) |
-| 9 | Addepar | AI Engineer - AI Platform | Applied AI / FDE | Remote - New York City, NY | Oct 28 | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8906234002) |
-| 9 | Sopra Steria I2S | AI Security Consultant - m/w/d | AI Security | Bundesweit, DE | Oct 28 | [Apply](https://jobs.smartrecruiters.com/SopraSteria1/744000158048170-ai-security-consultant-m-w-d-?oga=true) |
-| 9 | National Laboratory of the Rockies | Postdoctoral Researcher - Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts | Applied AI / FDE | Golden, CO | Oct 28 | [Apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Post-Doctoral-Researcher----Agentic-AI-Driven-Computational-Synthesis-of-PGM-free-Fuel-Cell-Catalysts_R14572) |
-| 8.5 | Guidehouse | Junior Data Scientist | ML / Data Science | DC, Washington | Oct 28 | [Apply](https://zapply.jobs/l/d/workday-guidehouse-external-45736?s=gh-new-grad-jobs-2027) |
-| 8.5 | Bank of America | Data Scientist I | ML / Data Science | Charlotte, NC +1 | Oct 28 | [Apply](https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Charlotte/Data-Scientist-I_26039656-1) |
-| 8 | Citizens Financial Group | Assistant General Counsel - Cybersecurity | Security / D&R | Johnston, RI, United States | Oct 28 | [Apply](https://zapply.jobs/l/d/oracle-citizens-financial-50099?s=gh-new-grad-jobs-2027) |
-| 7.5 | RTX | Engineer I, Software Engineer - Test Engineering (Onsite) | Software Engineering | IA-CEDAR RAPIDS | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01884730?s=gh-new-grad-jobs-2027) |
-| 7.5 | RTX | Software Engineer I (Onsite) | Software Engineering | CA-SAN JOSE | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885857?s=gh-new-grad-jobs-2027) |
-| 7.5 | Thoughtworks | Software Developer New Grad | Software Engineering | Chicago, IL | Oct 29 | [Apply](https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235) |
-| 7.5 | TSC | Software Engineer 1 | Software Engineering | Plymouth, MA | Oct 29 | [Apply](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890) |
-| 7.5 | Crusoe | Software Engineer I, Network | Software Engineering | San Francisco, CA - US | Oct 28 | [Apply](https://zapply.jobs/l/d/ashby-crusoe-9a5223c4-9eb7-4fdb-b97c-f43525df35ed?s=gh-new-grad-jobs-2027) |
-| 7.5 | Glean | Software Engineer, University Grad | Software Engineering | Mountain View, CA | Oct 28 | [Apply](https://zapply.jobs/l/d/greenhouse-gleanwork-4748567005?s=gh-new-grad-jobs-2027) |
-| 7.5 | Northrop Grumman | Associate Software Engineer - Pathways Program | Software Engineering | Aurora, CO | Oct 28 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160) |
-| 7.5 | Priceline | Junior Software Engineer - Front End | Software Engineering | NYC | Oct 28 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885) |
-| 7.5 | Rendezvous Robotics | Flight Software Engineer – Early Career | Software Engineering | Golden, CO | Oct 22 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009) |
-| 7 | Fanduel | Data Scientist - Risk | ML / Data Science | Jersey City, NJ | Oct 29 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8303304) |
-| 7 | TD Bank | Technical Product Owner (Layer 6) - AI & Machine Learning Solutions | ML / Data Science | New York, New York | Oct 28 | [Apply](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1517682?s=gh-new-grad-jobs-2027) |
-| 7 | 42dot | Machine Learning Engineer - Autonomy | ML / Data Science | San Francisco, CA | Oct 28 | [Apply](https://jobs.ashbyhq.com/42dot/a3788235-4a51-492c-abfd-23b89d6dd411) |
-| 7 | Abbott | Data Scientist- Abbott Park - IL | ML / Data Science | Illinois, USA | Oct 28 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/Data-Scientist--Abbott-Park--IL_31165701-1) |
+| 10 | Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) | Applied AI / FDE | Temple Terrace, FL | Oct 30 | [Apply](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1) |
+| 10 | Ring Power | AI Engineer I - In Office | Applied AI / FDE | Saint Augustine, FL | Oct 29 | [Apply](https://careers-ringpower.icims.com/jobs/15387/ai-engineer-i---%28in-office%29/job) |
+| 10 | Exelixis | Associate AI and Agentic Engineer | Applied AI / FDE | Alameda, CA | Oct 29 | [Apply](https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-AI-and-Agentic-Engineer_JR7184) |
+| 10.0 | Northrop Grumman | Associate Cyber Software Engineer - Pathways Program | Security / D&R | Aurora, CO | Oct 29 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279) |
+| 9.5 | RTX | Embedded Software Security Engineer I - S3E | Security / D&R | AZ-TUCSON | Oct 30 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01878692?s=gh-new-grad-jobs-2027) |
+| 9.5 | Raydar | Founding Software Engineer - AI Agents | Applied AI / FDE | SF | Oct 29 | [Apply](https://apply.workable.com/raydar/j/F452EE23A1/apply) |
+| 9 | Raydar | Forward Deployed Engineer | Applied AI / FDE | SF, LA | Oct 29 | [Apply](https://apply.workable.com/raydar/j/3D1A5526C8/apply) |
+| 9 | Raydar | Applied AI Engineer | Applied AI / FDE | SF | Oct 29 | [Apply](https://apply.workable.com/raydar/j/89F1DF6904/apply) |
+| 9 | Raydar | AI Engineer | Applied AI / FDE | LA | Oct 29 | [Apply](https://apply.workable.com/raydar/j/EF9BC1EC32/apply) |
+| 9 | Raydar | Applied AI Engineer | Applied AI / FDE | SF, Remote in USA | Oct 29 | [Apply](https://apply.workable.com/raydar/j/A876C6B170/apply) |
+| 9 | Zoom | AI Engineer | Applied AI / FDE | Seattle, WA | Oct 29 | [Apply](https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1) |
+| 8.5 | Micron Technology | New College Grad - Data Scientist, AI for Business Functions | ML / Data Science | Boise, ID - Main Site | Oct 29 | [Apply](https://zapply.jobs/l/d/workday-micron-external-JR115682?s=gh-new-grad-jobs-2027) |
+| 8.5 | Micron | New College Grad - Data Scientist, AI for Business Functions | ML / Data Science | Boise, Idaho, United States of... | Oct 29 | [Apply](https://zapply.jobs/l/d/eightfold-micron-45096301?s=gh-new-grad-jobs-2027) |
+| 8.5 | Guidehouse | Junior Data Scientist | ML / Data Science | Washington, DC | Oct 29 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---DC-Washington/Junior-Data-Scientist_45736) |
+| 8.5 | ICF | Seasonal Associate - Data Scientist | ML / Data Science | Reston, VA | Oct 29 | [Apply](https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Data-Scientist_R2603639) |
+| 8.5 | Northrop Grumman | Associate Data Scientist - Pathways | ML / Data Science | Aurora, CO | Oct 29 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1) |
+| 8 | BAE Systems | Cyber Security, Information Systems Security Officer (ISSO) | Security / D&R | Merrimack, New Hampshire | Oct 30 | [Apply](https://zapply.jobs/l/d/phenom-bae-systems-131416BR?s=gh-new-grad-jobs-2027) |
+| 8 | Volga Partners | Data Annotation Specialist - Object Detection | Security / D&R | Remote in USA | Oct 29 | [Apply](https://apply.workable.com/volga-partners/j/6371769632/apply) |
+| 7.5 | RTX | Entry-Level Software Developer - Application Support & Sustainment (Remote) | Software Engineering | IA-CEDAR RAPIDS | Oct 30 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01885356?s=gh-new-grad-jobs-2027) |
+| 7.5 | Zebra | Software Engineer, Professional I | Software Engineering | Holtsville, New York | Oct 30 | [Apply](https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103835?s=gh-new-grad-jobs-2027) |
+| 7.5 | BodySpec | Junior Software Engineer | Software Engineering | Austin, TX | Oct 30 | [Apply](https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer) |
+| 7.5 | TSC | Software Engineer 1 | Software Engineering | Huntsville, AL | Oct 30 | [Apply](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Huntsville-AL-Discovery/Software-Engineer-I_JR2897) |
+| 7.5 | Northwood Space | Software Engineer, Platform (Early Career) | Software Engineering | Torrance, CA | Oct 29 | [Apply](https://zapply.jobs/l/d/ashby-northwoodspace-f7b9e8d5-7368-4a54-b445-ff647f12b1b6?s=gh-new-grad-jobs-2027) |
+| 7.5 | Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Software Engineering | Annapolis Junction, MD | Oct 29 | [Apply](https://intelliforceitsolutionsgroup.applytojob.com/apply/vrH8MYXO9u/Junior-Software-Engineer-Prime) |
+| 7.5 | RTX | Software Engineer 1 | Software Engineering | San Jose, CA | Oct 29 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857) |
+| 7.5 | Morningstar | Associate Software Engineer - Central Tech AI | Software Engineering | Chicago, IL | Oct 29 | [Apply](https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108) |
+| 7.5 | TSC | Junior Software Engineer | Software Engineering | Arlington County, Arlington, VA | Oct 29 | [Apply](https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896) |
+| 7.5 | Dexcom | Software Development Engineer 1 | Software Engineering | San Diego, CA | Oct 29 | [Apply](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808) |
+| 7 | Raydar | Machine Learning Infrastructure Engineer | ML / Data Science | SF | Oct 29 | [Apply](https://apply.workable.com/raydar/j/6083239DEE/apply) |
+| 7 | Raydar | Machine Learning Engineer | ML / Data Science | SF | Oct 29 | [Apply](https://apply.workable.com/raydar/j/B4B389F0C9/apply) |
+| 7 | Genentech | Machine Learning Engineer - AI Enablement | ML / Data Science | South San Francisco, CA | Oct 29 | [Apply](https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Engineer--AI-Enablement-_202610-127752) |
+| 7 | ResMed | Machine Learning Engineer | ML / Data Science | San Diego, CA | Oct 29 | [Apply](https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/San-Diego-CA-United-States/Machine-Learning-Engineer_JR_054695-1) |
+| 7 | Micron Technology | Data Scientist - AI for Business Functions | ML / Data Science | Boise, ID | Oct 29 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) |
