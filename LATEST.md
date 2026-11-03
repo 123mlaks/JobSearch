@@ -1,17 +1,27 @@
-# New matches — 2026-11-02
+# New matches — 2026-11-03
 
-11 new postings (scanned 10118 listings).
+15 new postings (scanned 10012 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 10 | Philips | Associate Data & AI Engineer - Medical Imaging | Applied AI / FDE | Bedford, MA | Nov 02 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180) |
-| 8.5 | Integration Innovation (i3) | Junior Machine Learning Engineer | ML / Data Science | Arlington County, Arlington, VA | Nov 02 | [Apply](https://i3-corps.jibeapply.com/jobs/5417?icims=1) |
-| 8.5 | Aerospace | 2027 Data Scientist/Machine Learning Engineer | ML / Data Science | El Segundo, CA | Oct 31 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761) |
-| 7.5 | RTX | Software Engineer I (Hybrid) | Software Engineering | PR-AGUADILLA | Nov 02 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01877905?s=gh-new-grad-jobs-2027) |
-| 7.5 | Qualtrics | Software Development Engineer I - Data Platform | Software Engineering | Seattle, Washington, United States | Nov 02 | [Apply](https://zapply.jobs/l/d/greenhouse-qualtrics-8334245?s=gh-new-grad-jobs-2027) |
-| 7.5 | RTX | Embedded Security Software Engineer I (Onsite) | Software Engineering | MA-TEWKSBURY-TB1 | Nov 02 | [Apply](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881440?s=gh-new-grad-jobs-2027) |
-| 7.5 | Verkada | Backend Software Engineer - University Graduate 2027 | Software Engineering | San Mateo, CA United States | Nov 02 | [Apply](https://zapply.jobs/l/d/greenhouse-verkada-5280545007?s=gh-new-grad-jobs-2027) |
-| 7.5 | Qualtrics | Software Engineer I - XMD | Software Engineering | Seattle, Washington, United States | Nov 02 | [Apply](https://zapply.jobs/l/d/greenhouse-qualtrics-8325652?s=gh-new-grad-jobs-2027) |
-| 7.5 | Stout | Data Analyst - Transformative Change - Disputes - Claims & Investigations | Fraud / Surveillance | New York City, NY +1 | Oct 31 | [Apply](https://stout.wd5.myworkdayjobs.com/en-US/stout-careers/job/New-York-NY/Data-Analyst--Transformative-Change---Disputes--Claims---Investigations_r2261-1) |
-| 7 | Aerospace | 2026 Data Scientist | ML / Data Science | Colorado Springs, CO +1 | Oct 31 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/external/job/Colorado-Springs-CO/XMLNAME-2026-Data-Scientist_R015833) |
-| 7 | S&P Global | Machine Learning Engineer | ML / Data Science | New York City, NY | Oct 31 | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/New-York-NY/Machine-Learning-Engineer_330796-2) |
+| 9.5 | Rocket Lab | Test and Launch Operations Engineer I | Trading Ops | Wallops Island, VA | Nov 03 | [Apply](https://zapply.jobs/l/d/greenhouse-rocketlab-8165883003?s=gh-new-grad-jobs-2027) |
+| 9.5 | Clarity Innovations | Junior Reverse Engineering/Vulnerability Research Engineer | Security / D&R | Columbus, OH | Nov 02 | [Apply](https://zapply.jobs/l/d/greenhouse-clarityinnovates-5280086007?s=gh-new-grad-jobs-2027) |
+| 9 | University of Maryland | Agent, Urban Horticultural Production and Management Specialist | Applied AI / FDE | CMREC HEADQUARTERS | Nov 03 | [Apply](https://zapply.jobs/l/d/workday-umd-umcp-JR105284?s=gh-new-grad-jobs-2027) |
+| 9 | Boeing | Procurement Agent (Procurement Admin) | Applied AI / FDE | Tukwila, WA | Nov 03 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026528615?s=gh-new-grad-jobs-2027) |
+| 9 | Boeing | Procurement Agent Level 2 or 3 | Applied AI / FDE | Tukwila, WA | Nov 03 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026527713?s=gh-new-grad-jobs-2027) |
+| 9 | AbbVie | AI Engineer | Applied AI / FDE | North Chicago, IL | Nov 02 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016565806) |
+| 8.5 | Steampunk | Associate Data Scientist | ML / Data Science | McLean, VA | Nov 02 | [Apply](https://careers-steampunk.icims.com/jobs/5916/associate-data-scientist/job) |
+| 7.5 | Allstate | SIU Field Investigator | Fraud / Surveillance | IL Chicago | Nov 03 | [Apply](https://zapply.jobs/l/d/workday-allstate-allstate-careers-R36703?s=gh-new-grad-jobs-2027) |
+| 7.5 | Smartsheet | Software Engineer I (Remote Eligible) | Software Engineering | -REMOTE, USA- | Nov 02 | [Apply](https://zapply.jobs/l/d/greenhouse-smartsheet-8347710?s=gh-new-grad-jobs-2027) |
+| 7.5 | AbbVie | Associate Device Software Engineer | Software Engineering | Irvine, CA | Nov 02 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016568546) |
+| 7.5 | Qualtrics | Software Development Engineer 1 - Data Platform | Software Engineering | Seattle, WA | Nov 02 | [Apply](https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245) |
+| 7.5 | Qualtrics | Software Engineer 1 - XMD | Software Engineering | Seattle, WA | Nov 02 | [Apply](https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652) |
+| 7 | Apple | Computational Support for Machine Learning and Transformers, Core OS | ML / Data Science | Cupertino | Nov 03 | [Apply](https://zapply.jobs/l/d/apple-200692952?s=gh-new-grad-jobs-2027) |
+| 7 | LLNL | Physics-Informed Machine Learning - Postdoctoral Researcher | ML / Data Science | Livermore, CA | Nov 03 | [Apply](https://zapply.jobs/l/d/sr-llnl-3743990016573736?s=gh-new-grad-jobs-2027) |
+| 7 | Applied Materials | Computer Vision/Machine Learning/Deep Learning Algorithm Developer | ML / Data Science | Santa Clara, CA | Nov 02 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2632865) |
+
+<details><summary>Sources that failed today</summary>
+
+- spotify: ReadTimeout
+
+</details>
