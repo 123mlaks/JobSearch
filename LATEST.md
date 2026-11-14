@@ -1,30 +1,27 @@
-# New matches — 2026-11-13
+# New matches — 2026-11-14
 
-24 new postings (scanned 10070 listings).
+21 new postings (scanned 10020 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 9.5 | Boeing | Cybersecurity – Associate Information System Security Officer (ISSO) | Security / D&R | USA - Berkeley, MO | Nov 13 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026507965?s=gh-new-grad-jobs-2027) |
-| 9.5 | JPMorgan Chase | Trading Operations Associate | Trading Ops | Jersey City, NJ, United States | Nov 13 | [Apply](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210805995?s=gh-new-grad-jobs-2027) |
-| 9.5 | NTT Data | SOC Analyst (Junior) | Security / D&R | Springfield, US-VA | Nov 12 | [Apply](https://zapply.jobs/l/d/phenom-ntt-data-397368?s=gh-new-grad-jobs-2027) |
-| 9.0 | Wells Fargo | Fraud and Claims Operations Associate | Fraud / Surveillance | CHARLOTTE, NC | Nov 13 | [Apply](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-586816?s=gh-new-grad-jobs-2027) |
-| 9 | Senseye | AI Engineer | Applied AI / FDE | Austin, TX | Nov 12 | [Apply](https://apply.workable.com/senseye/j/56F6BB2046/apply) |
-| 8.5 | SAIC | Data Scientist Associate | ML / Data Science | Upper Marlboro, MD | Nov 12 | [Apply](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2615778) |
-| 8 | Johnson Controls | Fire Detection Service Technician | Security / D&R | Tallahassee-Florida-United... | Nov 13 | [Apply](https://zapply.jobs/l/d/workday-jci-jci-WD30285273?s=gh-new-grad-jobs-2027) |
-| 8 | BAE Systems | Cyber Security, Information Systems Security Officer (ISSO) | Security / D&R | Nashua, New Hampshire | Nov 06 | [Apply](https://zapply.jobs/l/d/phenom-bae-systems-131800BR?s=gh-new-grad-jobs-2027) |
-| 7.5 | Amentum | Construction Surveillance Technician (CST) | Fraud / Surveillance | VA-Falls Church | Nov 13 | [Apply](https://zapply.jobs/l/d/workday-pae-amentum-careers-R0175436?s=gh-new-grad-jobs-2027) |
-| 7.5 | Wells Fargo | Fraud & Claims Management Business Assurance - Business Execution Consultant - Risk and Controls... | Fraud / Surveillance | CHANDLER, AZ | Nov 13 | [Apply](https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-581572?s=gh-new-grad-jobs-2027) |
-| 7.5 | Abnormal Security | Software Engineer I, Data Platforms | Software Engineering | Remote - USA | Nov 13 | [Apply](https://zapply.jobs/l/d/greenhouse-abnormalsecurity-8196352003?s=gh-new-grad-jobs-2027) |
-| 7.5 | Shield AI | Software Engineer 1 New Grad | Software Engineering | Washington, DC | Nov 13 | [Apply](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) |
-| 7.5 | Northrop Grumman | Associate Software Engineer | Software Engineering | McClellan Park, CA | Nov 13 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423) |
-| 7.5 | Affirm | Software Engineer I, Backend (Continuous Delivery) | Software Engineering | Remote US | Nov 12 | [Apply](https://zapply.jobs/l/d/greenhouse-affirm-8181183003?s=gh-new-grad-jobs-2027) |
-| 7.5 | Affirm | Software Engineer 1 - Backend - Continuous Delivery | Software Engineering | Remote in USA | Nov 12 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) |
-| 7.5 | HPE | Systems/Software Engineer I | Software Engineering | Sunnyvale, California, United... | Nov 12 | [Apply](https://zapply.jobs/l/d/workday-hpe-acjobsite-1215821?s=gh-new-grad-jobs-2027) |
-| 7.5 | HPE (University) | Systems/Software Engineer I | Software Engineering | Sunnyvale, California, United... | Nov 12 | [Apply](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1215821?s=gh-new-grad-jobs-2027) |
-| 7.5 | Micron Technology | New College Grad - Software Engineer | Software Engineering | Boise, ID - Main Site | Nov 12 | [Apply](https://zapply.jobs/l/d/workday-micron-external-JR109692?s=gh-new-grad-jobs-2027) |
-| 7.5 | Micron | New College Grad - Software Engineer | Software Engineering | Boise, Idaho, United States of... | Nov 12 | [Apply](https://zapply.jobs/l/d/eightfold-micron-44144084?s=gh-new-grad-jobs-2027) |
-| 7.5 | SpaceX | Aerospace Software Engineer New Grad - Aerospace Software | Software Engineering | Hawthorne, CA | Nov 12 | [Apply](https://boards.greenhouse.io/spacex/jobs/8939697002) |
-| 7.5 | Hewlett Packard Enterprise | Systems/Software Engineer 1 | Software Engineering | Sunnyvale, CA | Nov 12 | [Apply](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2) |
-| 7.5 | RLI | Associate Software Engineer | Software Engineering | Peoria, IL, Tempe, AZ | Nov 12 | [Apply](https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864) |
-| 7.5 | Booz Allen | Junior C++ Software Engineer | Software Engineering | Beavercreek, OH | Nov 12 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425) |
-| 7.5 | General Dynamics Mission Systems | Platform Services Software Engineer Entry Level | Software Engineering | Scottsdale, AZ | Nov 12 | [Apply](https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false) |
+| 10 | Boeing | Associate Contracts Procurement Agent | Applied AI / FDE | USA - Seattle, WA | Nov 14 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525124?s=gh-new-grad-jobs-2027) |
+| 10 | Empire State Realty Trust | Applied AI Engineer 1 | Applied AI / FDE | NYC | Nov 13 | [Apply](https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267/apply) |
+| 10 | Bask | Junior Applied AI Engineer | Applied AI / FDE | USA | Nov 13 | [Apply](https://apply.workable.com/bask-health-1/j/B5B71C8A22/) |
+| 9.5 | Axiom Space | Mission Operations Engineer (Entry Level) | Trading Ops | Houston | Nov 14 | [Apply](https://zapply.jobs/l/d/workday-axiomspace-external-career-site-JR100872?s=gh-new-grad-jobs-2027) |
+| 9.5 | Emerson Electric | Software Engineer - Applied AI | Applied AI / FDE | Austin, TX | Nov 13 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909) |
+| 9 | CDPHP | AI Engineer | Applied AI / FDE | Rochester, NY, De Witt, NY, Utica, NY, A | Nov 11 | [Apply](https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556) |
+| 8.5 | Adobe | 2027 University Graduate - Data Scientist | ML / Data Science | San Jose, CA | Nov 13 | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Scientist_R173462) |
+| 8.5 | Capital One | Associate - Data Scientist - US Card | ML / Data Science | McLean, VA | Nov 13 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/capital_one/job/McLean-VA/Associate--Data-Scientist---US-Card_R1005289-1) |
+| 8.5 | Guidehouse | Jr. Data Scientist | ML / Data Science | McLean, VA | Nov 13 | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Jr-Data-Scientist_44767) |
+| 8 | Cummins | DWU - FSP(XPC) - Controls Engineering Operations Engineering Support Specialist - 2nd Shift | Trading Ops | Columbus, IN, United States | Nov 13 | [Apply](https://zapply.jobs/l/d/oracle-cummins-2441845?s=gh-new-grad-jobs-2027) |
+| 8 | Cummins | DWU - FSP(XPC) - Controls Engineering Operations Engineering Support Specialist - 3rd Shift | Trading Ops | Columbus, IN, United States | Nov 13 | [Apply](https://zapply.jobs/l/d/oracle-cummins-2441846?s=gh-new-grad-jobs-2027) |
+| 7.5 | Twitch | Software Engineer I, Payments | Software Engineering | San Francisco, CA | Nov 14 | [Apply](https://zapply.jobs/l/d/greenhouse-twitch-8943553002?s=gh-new-grad-jobs-2027) |
+| 7.5 | The Travelers Companies | Software Engineer I (TypeScript, React, AWS, AI-Assisted Development) | Software Engineering | CT - Hartford | Nov 14 | [Apply](https://zapply.jobs/l/d/workday-travelers-external-R-53687?s=gh-new-grad-jobs-2027) |
+| 7.5 | KeyBank | Fraud and Disputes Product Owner | Fraud / Surveillance | Brooklyn, OH | Nov 14 | [Apply](https://zapply.jobs/l/d/workday-keybank-external-career-site-R-43234?s=gh-new-grad-jobs-2027) |
+| 7.5 | Huntington Ingalls Industries | Software Development Engineer 1 | Software Engineering | Newport News, VA | Nov 13 | [Apply](https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors) |
+| 7.5 | Cambridge Mobile Telematics | Software Engineer 1, Cloud | Software Engineering | Cambridge, MA | Nov 13 | [Apply](https://job-boards.greenhouse.io/cmt/jobs/8385978) |
+| 7.5 | edmentum | Software Engineer 1 | Software Engineering | Bloomington, MN | Nov 11 | [Apply](https://job-boards.greenhouse.io/edmentum/jobs/6255572004) |
+| 7 | Booz Allen | Data Scientist | ML / Data Science | Honolulu, HI | Nov 13 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0253537) |
+| 7 | Analog Devices | Design Evaluation Engineer - Power Management ICs | OT / ICS Security | United States | Nov 13 | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Design-Evaluation-Engineer---Summer-2027_R266633) |
+| 7 | LiteLLM | ML Engineer | ML / Data Science | San Francisco, CA | Nov 12 | [Apply](https://jobs.ashbyhq.com/litellm/ee96c797-fb2b-4f91-9639-6017ae73c34c) |
+| 7 | XMSTART | Data Scientist | ML / Data Science | Chantilly, VA +1 | Nov 12 | [Apply](https://apply.workable.com/xm-start/j/EED8E65806/) |
