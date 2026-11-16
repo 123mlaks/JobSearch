@@ -1,9 +1,10 @@
-# New matches — 2026-11-15
+# New matches — 2026-11-16
 
-3 new postings (scanned 10020 listings).
+4 new postings (scanned 9999 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 8.5 | Systems Planning and Analysis | Jr. Data Scientist | ML / Data Science | Alexandria, VA | Nov 12 | [Apply](https://careers-spa.icims.com/jobs/23821/job) |
-| 8.5 | SambaNova Systems | Machine Learning Engineer - New Grad | ML / Data Science | Austin, TX +1 | Nov 04 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
-| 7.5 | Johnson Controls | Nextgen Software Engineer New Grad | Software Engineering | Milwaukee, WI, Westford, MA, Glendale, W | Nov 13 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2) |
+| 9 | CrowdStrike | AI Security Solutions Consultant (Remote) | AI Security | USA - Remote, RI | Nov 16 | [Apply](https://zapply.jobs/l/d/workday-crowdstrike-crowdstrikecareers-R30839?s=gh-new-grad-jobs-2027) |
+| 8 | Johnson Controls | Fire Detection Inspector | Security / D&R | Orlando-Florida-United States... | Nov 16 | [Apply](https://zapply.jobs/l/d/workday-jci-jci-WD30284428?s=gh-new-grad-jobs-2027) |
+| 7.5 | Cox | Entry Level Software Engineer - Atlanta, GA | Software Engineering | Atlanta GA | Nov 16 | [Apply](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202680858?s=gh-new-grad-jobs-2027) |
+| 7 | Unique | Data Scientist - Wealth Graph | ML / Data Science | NYC | Nov 16 | [Apply](https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d) |
