@@ -1,40 +1,24 @@
-# New matches — 2026-11-20
+# New matches — 2026-11-21
 
-28 new postings (scanned 7477 listings).
+18 new postings (scanned 10185 listings).
 
 | Fit | Company | Title | Family | Location | Posted | Link |
 |---|---|---|---|---|---|---|
-| 10 | MetaPhase | Junior Forward Deployed Engineer | Applied AI / FDE | Reston, VA | Nov 19 | [Apply](https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false) |
-| 9.5 | JPMorgan Chase | Global Cybersecurity Education and Awareness Associate | Security / D&R | Columbus, OH, United States | Nov 20 | [Apply](https://zapply.jobs/l/d/oracle-jpmorgan-chase-210807872?s=gh-new-grad-jobs-2027) |
-| 9.5 | Koch Industries | Software Engineer - AI Agents | Applied AI / FDE | Fremont, CA | Nov 19 | [Apply](https://koch.avature.net/en_US/careers/JobDetail/197657) |
-| 9 | Apple | AIML - LLM Inference Quality Engineer | Applied AI / FDE | Seattle, WA | Nov 20 | [Apply](https://jobs.apple.com/en-us/details/200695825-3337) |
-| 9.0 | GDIT | Construction Surveillance Technician I | Fraud / Surveillance | USA SD Rapid CIty | Nov 20 | [Apply](https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ232864?s=gh-new-grad-jobs-2027) |
-| 9 | Sante | AI Engineer | Applied AI / FDE | Austin, TX | Nov 20 | [Apply](https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1) |
-| 9 | neurohire.ai | Forward Deployed Engineer | Applied AI / FDE | Remote in USA | Nov 19 | [Apply](https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply) |
-| 8.5 | Centurum | Data Scientist 1 - Satellite Communications | ML / Data Science | San Diego, CA | Nov 19 | [Apply](https://centurum.applytojob.com/apply/NGHTfEGLMN/Data-Scientist-I-SATCOM) |
-| 8 | Boeing | Cybersecurity - Information System Security Officer (ISSO) | Security / D&R | USA - Huntington Beach, CA | Nov 19 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026529253?s=gh-new-grad-jobs-2027) |
-| 7.5 | Comcast | Junior C++ Software Engineer - 2 Days ONSITE - Reston, VA - FreeWheel | Software Engineering | VA - Reston | Nov 20 | [Apply](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R449188?s=gh-new-grad-jobs-2027) |
-| 7.5 | Boeing | Entry-Level Software Engineer–Developer | Software Engineering | USA - Richardson, TX | Nov 20 | [Apply](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523382?s=gh-new-grad-jobs-2027) |
-| 7.5 | L3Harris Technologies | Associate Embedded Software Engineer | Software Engineering | Fort Wayne, IN | Nov 20 | [Apply](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Embedded-Software-Engineer-IN-46818/1452529800/?ats=successfactors) |
-| 7.5 | Honeywell Aerospace | Software Engineering New Grad | Software Engineering | United States | Nov 20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524) |
-| 7.5 | Honeywell Aerospace | Software Engineer 1 | Software Engineering | Clearwater, FL | Nov 20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642) |
-| 7.5 | Honeywell Aerospace | Embedded Software Engineer 1 - Flight Management System | Software Engineering | Phoenix, AZ | Nov 20 | [Apply](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128476) |
-| 7.5 | Zepto Life Technology | Software Developer 1 | Software Engineering | St Paul, MN | Nov 20 | [Apply](https://zeptolife.bamboohr.com/careers/143/) |
-| 7.5 | Rise Internet | Software Engineer 1 | Software Engineering | Texas, Irving, TX | Nov 20 | [Apply](https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1) |
-| 7.5 | Oracle | Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN | Software Engineering | Nashville, TN, United States | Nov 20 | [Apply](https://zapply.jobs/l/d/oracle-oracle-350824?s=gh-new-grad-jobs-2027) |
-| 7.5 | Red Arch Solutions | Junior Software Engineer | Software Engineering | Annapolis Junction, MD | Nov 19 | [Apply](https://redarchsolutions.applytojob.com/apply/SjXMZVX4He/Jr-Software-Engineer) |
-| 7.5 | Comcast | Entry Level C++ Software Engineer- Reston, VA- ONSITE 2X Week- FreeWheel | Software Engineering | VA - Reston | Nov 19 | [Apply](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R449189?s=gh-new-grad-jobs-2027) |
-| 7.5 | HPE (University) | Systems / Software Engineer I Graduate | Software Engineering | Sunnyvale, California, United... | Nov 19 | [Apply](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1214972?s=gh-new-grad-jobs-2027) |
-| 7.5 | HPE | Systems / Software Engineer I Graduate | Software Engineering | Sunnyvale, California, United... | Nov 19 | [Apply](https://zapply.jobs/l/d/workday-hpe-acjobsite-1214972?s=gh-new-grad-jobs-2027) |
-| 7.5 | FIS | Mainframe Software Engineer I, COBOL | Software Engineering | GA CMH ONE RIVERFRONT | Nov 19 | [Apply](https://zapply.jobs/l/d/workday-fis-searchjobs-JR0309079?s=gh-new-grad-jobs-2027) |
-| 7.5 | Formlabs | Embedded Software Engineer - Entry Level | Software Engineering | Boston, MA | Nov 19 | [Apply](https://zapply.jobs/l/d/greenhouse-formlabs-8402093?s=gh-new-grad-jobs-2027) |
-| 7.5 | ViaSat | Associate Software Engineer – Early Career | Software Engineering | Carlsbad, CA | Nov 19 | [Apply](https://careers.viasat.com/jobs/7077?icims=1&lang=en-us) |
-| 7 | LLNL | Machine Learning (ML) Bioengineer | ML / Data Science | Livermore, CA | Nov 20 | [Apply](https://zapply.jobs/l/d/sr-llnl-3743990016986066?s=gh-new-grad-jobs-2027) |
-| 7 | Cresta | Applied Data Scientist | ML / Data Science | Remote - USA | Nov 19 | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5486727008) |
-| 7 | Intercom | GTM Data Scientist | ML / Data Science | San Francisco, CA | Nov 19 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8374568) |
-
-<details><summary>Sources that failed today</summary>
-
-- andurilindustries: ReadTimeout
-
-</details>
+| 10 | Vertex Service Partners | Junior AI Engineer | Applied AI / FDE | Charlotte, NC | Nov 20 | [Apply](https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009) |
+| 8.5 | Hitachi | Data Scientist I (MAD-BS-OR) | ML / Data Science | (HTA) NCP | Nov 20 | [Apply](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0128931?s=gh-new-grad-jobs-2027) |
+| 8.5 | GlobalFoundries | AI/ML Device Modeling Engineer - 2027 New College Graduate | ML / Data Science | Texas, USA +2 | Nov 20 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/en-US/external/job/USA---Texas---Austin/AI-Enabled-Device-Modeling_JR-2606083) |
+| 8.5 | Integra FEC | Junior Data Scientist | ML / Data Science | Austin, Texas | Nov 19 | [Apply](https://zapply.jobs/l/d/greenhouse-integra-5487065008?s=gh-new-grad-jobs-2027) |
+| 8 | OpenAI | Researcher, Cyber Safety Training | Security / D&R | San Francisco | Nov 21 | [Apply](https://zapply.jobs/l/d/ashby-openai-0503a31f-5550-44e8-bec3-99b493532000?s=gh-new-grad-jobs-2027) |
+| 7.5 | Affirm | Software Engineer I, Backend (Streaming Infra) | Software Engineering | Remote US | Nov 21 | [Apply](https://zapply.jobs/l/d/greenhouse-affirm-8201469003?s=gh-new-grad-jobs-2027) |
+| 7.5 | Affirm | Software Engineer 1 - Backend - Streaming Infra | Software Engineering | Remote in USA | Nov 21 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) |
+| 7.5 | Acuity Insurance | Software Engineer 1 | Software Engineering | Wisconsin | Nov 21 | [Apply](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=2621ceb4-172b-4f80-b042-b76aab90a2df) |
+| 7.5 | Secureframe | Software Engineer New Grad | Software Engineering | NYC | Nov 21 | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true) |
+| 7.5 | TransCore | Software Engineer 1 - SQL Development | Software Engineering | Nashville, TN | Nov 20 | [Apply](https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893) |
+| 7.5 | Phoenix Defense | Software Engineer 1 | Software Engineering | United States | Nov 20 | [Apply](https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36) |
+| 7.5 | Wellabe | Software Engineer 1/2/3 | Software Engineering | Des Moines, IA | Nov 20 | [Apply](https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7) |
+| 7.5 | Applied Research Associates | Junior Software Developer | Software Engineering | Albuquerque, NM | Nov 20 | [Apply](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca) |
+| 7.5 | Oracle | Software Engineer New Grad - Oracle Cloud Infrastructure | Software Engineering | Nashville, TN | Nov 20 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824) |
+| 7.5 | ECPI University | Associate Software Developer | Software Engineering | Virginia Beach, VA | Nov 20 | [Apply](https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail?opportunityId=4b69f6b1-0298-4c53-9d7a-5555320c1c56) |
+| 7.5 | Garmin | Software Engineer 1 | Software Engineering | Salem, OR | Nov 20 | [Apply](https://careers.garmin.com/jobs/21486?icims=1&lang=en-us) |
+| 7.5 | Medtronic | Software Engineer I - CRM | Software Engineering | Minneapolis, Minnesota, United... | Nov 20 | [Apply](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R82448?s=gh-new-grad-jobs-2027) |
+| 7 | Lawrence Livermore National Laboratory | Machine Learning - ML Bioengineer | ML / Data Science | Livermore, CA | Nov 21 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016986066-machine-learning-ml-bioengineer?oga=true) |
